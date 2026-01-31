@@ -1,7 +1,7 @@
 import React from 'react';
 import article from '../../assets/svgs/Article.svg'
 import profile from '../../assets/svgs/Profile1.svg'
-import home from '../../assets/svgs/vector.svg'
+import home from '../../assets/svgs/Vector.svg'
 import task from '../../assets/svgs/task-square.svg'
 import scroll from '../../assets/svgs/Scroll.svg'
 import toolbox from '../../assets/svgs/Toolbox.svg'
@@ -39,3 +39,4 @@ const Navbar: React.FC = () => {
 };
 
 export default Navbar;
+
